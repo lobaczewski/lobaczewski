@@ -1,14 +1,6 @@
 <h1 align="center">Welcome</h1>
 <h3 align="center">Live Long and Prosper 🖖</h3>
 
----
-
-### ⚙️ GitHub Analytics
-
-
-
----
-
 ### 💻 About Me
 
 - 🔐 DevSecOps | Cloud | Infra-as-Code | Kubernetes | CI/CD
