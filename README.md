@@ -5,7 +5,7 @@
 
 👨‍💻 Senior Cloud Engineer | Kubernetes & AWS Specialist | SRE | DevSecOps
 
-I'm a cloud infrastructure and automation enthusiast with deep hands-on experience in AWS, Kubernetes, and high-availability systems. 
+I'm a cloud infrastructure and automation enthusiast with deep hands-on experience in AWS, Kubernetes and high-availability systems.
 I value clean code, secure-by-design practices, and observability at scale.
 
 I bridge modern DevOps practices with enterprise environments. 
