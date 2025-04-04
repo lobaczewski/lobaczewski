@@ -13,9 +13,9 @@
 
 ### 🏅 Certifications
 
-[![KCNA](https://img.shields.io/badge/KCNA-Certified-blue?logo=kubernetes)](https://www.credly.com/badges/SEU-KCNA-LINK) 
+[![KCNA](https://img.shields.io/badge/KCNA-Certified-blue?logo=kubernetes)]((https://www.credly.com/earner/earned/badge/b1496483-cfb7-4ca9-9c87-29966002701c)) 
 [![CKA](https://img.shields.io/badge/CKA-Certified-blueviolet?logo=kubernetes)](https://www.credly.com/earner/earned/badge/092885ca-6116-499b-bd85-bc30b98b5a62)
-[![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-orange?logo=amazon-aws)]([https://www.credly.com/earner/earned/badge/d38addc3-6eb6-4e47-9336-170b5332deb0)
+[![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-orange?logo=amazon-aws)](https://www.credly.com/earner/earned/badge/d38addc3-6eb6-4e47-9336-170b5332deb0)
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-yellow?logo=amazon-aws)]([https://www.credly.com/badges/SEU-CLF-LINK](https://www.credly.com/earner/earned/badge/30af3cd3-d614-4c49-b785-bdfcfa33a8d5))
 
 
