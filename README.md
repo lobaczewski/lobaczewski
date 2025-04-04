@@ -3,7 +3,7 @@
 
 ### 💻 About Me
 
-- 🔐 DevSecOps | Cloud | Infra-as-Code | Kubernetes | CI/CD
+- 🔐 Senior Engineer | Tech Lead | Kubernetes & AWS Specialist | SRE | DevSecOps | Cloud Infra | MBA Cyber Security
 - ☁️ Fanático por automação e segurança
 - 👨‍💻 Amante de código limpo, logs organizados e monitoramento decente
 - 🍳 Fundador da DiCasa Culinária Afetiva (dev + chef 😄)
