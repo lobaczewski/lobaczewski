@@ -1,5 +1,5 @@
 <h1 align="center">Welcome</h1>
-<h3 align="center">Keep Learning 🖖</h3>
+<h3 align="center">Keep Learning</h3>
 
 ### 💻 About Me
 
