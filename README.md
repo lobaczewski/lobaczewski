@@ -3,11 +3,15 @@
 
 ### 💻 About Me
 
-👨‍💻 Senior Engineer | Tech Lead | Kubernetes & AWS Specialist | SRE | DevSecOps | Cloud Infrastructure | MBA in Cyber Security  
-🔐 Automation and security enthusiast, always striving for smarter and safer systems  
-🧼 Passionate about clean code, structured logs, and reliable monitoring  
-🧠 Extensive experience in infrastructure projects and IBM systems (AS/400), with strong background in connectivity and networking  
-🛠️ Deep hands-on expertise in AWS and troubleshooting complex, high-availability environments  
+👨‍💻 Senior Cloud Engineer | Kubernetes & AWS Specialist | SRE | DevSecOps
+
+I'm a cloud infrastructure and automation enthusiast with deep hands-on experience in AWS, Kubernetes, and high-availability systems. 
+I value clean code, secure-by-design practices, and observability at scale.
+
+I bridge modern DevOps practices with enterprise environments. 
+Currently pursuing global opportunities to build smarter, safer, and more resilient systems.
+
+
 
 ---
 
