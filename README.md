@@ -11,6 +11,14 @@
 
 ---
 
+### 🏅 Certifications
+
+![KCNA](https://img.shields.io/badge/KCNA-Certified-blue?logo=kubernetes)
+![CKA](https://img.shields.io/badge/CKA-Certified-blueviolet?logo=kubernetes)
+![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-orange?logo=amazon-aws)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-yellow?logo=amazon-aws)
+
+---
 ### 📫 Reach me at
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/alexandrelobaczewskigarcia/)
