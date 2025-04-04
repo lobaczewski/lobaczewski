@@ -13,10 +13,11 @@
 
 ### 🏅 Certifications
 
-![KCNA](https://img.shields.io/badge/KCNA-Certified-blue?logo=kubernetes)
-![CKA](https://img.shields.io/badge/CKA-Certified-blueviolet?logo=kubernetes)
-![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-orange?logo=amazon-aws)
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-yellow?logo=amazon-aws)
+[![KCNA](https://img.shields.io/badge/KCNA-Certified-blue?logo=kubernetes)](https://www.credly.com/badges/SEU-KCNA-LINK)
+[![CKA](https://img.shields.io/badge/CKA-Certified-blueviolet?logo=kubernetes)](https://www.credly.com/badges/SEU-CKA-LINK)
+[![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-orange?logo=amazon-aws)](https://www.credly.com/badges/SEU-SAA-LINK)
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-yellow?logo=amazon-aws)](https://www.credly.com/badges/SEU-CLF-LINK)
+
 
 ---
 ### 📫 Reach me at
